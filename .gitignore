@@ -1,4 +1,12 @@
+### JS_Algorithm ignore file list
+## 23.07.11
+
+
 # Basic files
 
 algorithm.html
 JS_Algorithm_templete.js
+
+# VSCode Work-Space file
+
+*.code-workspace
