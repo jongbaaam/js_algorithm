@@ -17,6 +17,9 @@
 | 07 | 10부제 | 기본문제 | [바로가기](./section_1/Q7.js) | ![SUCCESS] |
 | 08 | 일곱 난쟁이 | 기본문제 | [바로가기](./section_1/Q8.js) | ![FAIL] |
 | 09 | A를 #으로 | 기본문제 | [바로가기](./section_1/Q9.js) | ![SUCCESS] |
+| 10 | 문자 찾기 | 기본문제 | [바로가기](./section_1/Q10.js) | ![SUCCESS] |
+| 11 | 대문자 찾기 | 기본문제 | [바로가기](./section_1/Q11.js) | ![SUCCESS] |
+| 12 | 대문자로 통일 | 기본문제 | [바로가기](./section_1/Q12.js) | ![SUCCESS] |
 
 </details>
 
