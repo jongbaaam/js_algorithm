@@ -20,6 +20,11 @@
 | 10 | 문자 찾기 | 기본문제 | [바로가기](./section_1/Q10.js) | ![SUCCESS] |
 | 11 | 대문자 찾기 | 기본문제 | [바로가기](./section_1/Q11.js) | ![SUCCESS] |
 | 12 | 대문자로 통일 | 기본문제 | [바로가기](./section_1/Q12.js) | ![SUCCESS] |
+| 13 | 대소문자 변환 | 기본문제 | [바로가기](./section_1/Q13.js) | ![SUCCESS] |
+| 14 | 가장 긴 문자열 | 기본문제 | [바로가기](./section_1/Q14.js) | ![SUCCESS] |
+| 15 | 가운데 문자 출력 | 기본문제 | [바로가기](./section_1/Q15.js) | ![SUCCESS] |
+| 16 | 중복문자제거 | 기본문제 | [바로가기](./section_1/Q16.js) | ![SUCCESS] |
+| 17 | 중복단어제거 | 기본문제 | [바로가기](./section_1/Q17.js) | ![SUCCESS] |
 
 </details>
 
